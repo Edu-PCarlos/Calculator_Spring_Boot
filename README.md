@@ -28,7 +28,7 @@ A aplicação foi construída com foco em simplicidade e legibilidade, sem banco
 
 Antes de executar a aplicação, certifique-se de ter instalado:
 
-- Java 17 ou superior
+- Java 21
 - Maven
 
 ---
